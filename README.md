@@ -4,6 +4,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmdkuk" />
 </a>
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/kmdkuk/posts.svg)](http://qiita.com/kmdkuk)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kmdkuk/contributions.svg)](http://qiita.com/kmdkuk)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/kmdkuk/followers.svg)](http://qiita.com/kmdkuk)
+                
 <!--
 **kmdkuk/kmdkuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
