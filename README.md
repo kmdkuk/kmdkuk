@@ -1,15 +1,15 @@
 <p align="left"> 
-  <img height="253px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
+  <img height="200px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
 </p>
 
 <p align="left"> 
-  <img height="257px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg" />
-  <img height="257px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" />
+  <img height="200px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg" />
+  <img height="200px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" />
 </p>
 
 <p align="left"> 
-  <img height="257px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/solarized_dark/3-stats.svg" />
-  <img height="257px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/solarized_dark/4-productive-time.svg" />
+  <img height="200px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/solarized_dark/3-stats.svg" />
+  <img height="200px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/solarized_dark/4-productive-time.svg" />
 </p>
 
 <p align="left"> 
