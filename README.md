@@ -4,12 +4,16 @@
 
 <p align="left">
 <a href="https://github.com/kmdkuk" target="blank">
-  <img align="center" src="https://cdn.simpleicons.org/github/white#gh-dark-mode-only" alt="kmdkuk" height="30" width="30" />
-  <img align="center" src="https://cdn.simpleicons.org/github#gh-light-mode-only" alt="kmdkuk" height="30" width="30" />
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/github/white" media="(prefers-color-scheme: dark)">
+    <img align="center" src="https://cdn.simpleicons.org/github" alt="kmdkuk" height="30" width="30" />
+  </picture>
 </a>
 <a href="https://x.com/kmdkuk" target="blank">
-  <img align="center" src="https://cdn.simpleicons.org/x/white#gh-dark-mode-only" alt="kmdkuk" height="30" width="30" />
-  <img align="center" src="https://cdn.simpleicons.org/x#gh-light-mode-only" alt="kmdkuk" height="30" width="30" />
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/x/white" media="(prefers-color-scheme: dark)">
+    <img align="center" src="https://cdn.simpleicons.org/x" alt="kmdkuk" height="30" width="30" />
+  </picture>
 </a>
 <a href="https://note.com/kmdkuk" target="blank"><img align="center" src="https://cdn.simpleicons.org/note" alt="kmdkuk" height="30" width="30" /></a>
 <a href="https://zenn.dev/kmdkuk" target="blank"><img align="center" src="https://cdn.simpleicons.org/zenn" alt="kmdkuk" height="30" width="30" /></a>
@@ -34,13 +38,19 @@
 </p>
 
 <p align="left"> 
-  <img height="200px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/github_dark/0-profile-details.svg#gh-dark-mode-only" />
-  <img height="200px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/github/0-profile-details.svg#gh-light-mode-only" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/github_dark/0-profile-details.svg" media="(prefers-color-scheme: dark)">
+    <img height="200px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/github/0-profile-details.svg" />
+  </picture>
 </p>
 
 <p align="left"> 
-  <img height="200px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/github_dark/1-repos-per-language.svg#gh-dark-mode-only" />
-  <img height="200px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/github/1-repos-per-language.svg#gh-light-mode-only" />
-  <img height="200px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/github_dark/3-stats.svg#gh-dark-mode-only" />
-  <img height="200px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/github/3-stats.svg#gh-light-mode-only" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" media="(prefers-color-scheme: dark)">
+    <img height="200px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/github/1-repos-per-language.svg" />
+  </picture>
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/github_dark/3-stats.svg" media="(prefers-color-scheme: dark)">
+    <img height="200px" src="https://raw.githubusercontent.com/kmdkuk/kmdkuk/master/profile-summary-card-output/github/3-stats.svg" />
+  </picture>
 </p>
