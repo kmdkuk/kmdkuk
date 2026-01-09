@@ -13,10 +13,8 @@
 <a href="https://bsky.app/profile/kmdkuk.bsky.social" target="blank"><img align="center" src="https://bsky.app/favicon.ico" alt="kmdkuk" height="30" width="30" /></a>
 </p>
 
-[![Static Badge](https://img.shields.io/badge/OldBlog(Jekyll%2BGitHubPages)-blog.kmdkuk.com-red
-)](https://blog.kmdkuk.com)
-[![Static Badge](https://img.shields.io/badge/NewBlog(Next.js%2BNotion%2BVercel)-blog.kmdk.uk-brightgreen
-)](https://blog.kmdk.uk)
+[![Static Badge](https://img.shields.io/badge/OldBlog(Jekyll%2BGitHubPages)-blog.kmdkuk.com-red)](https://blog.kmdkuk.com)
+[![Static Badge](https://img.shields.io/badge/NewBlog(Next.js%2BNotion%2BVercel)-blog.kmdk.uk-brightgreen)](https://blog.kmdk.uk)
 
 
 ## Languages and Tools:
