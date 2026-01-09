@@ -16,8 +16,6 @@ jobs:
           filename: metrics/github-metrics.*
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           # Options
-          user: kmdkuk
-          template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           config_display: columns
